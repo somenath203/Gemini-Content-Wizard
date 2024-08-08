@@ -44,3 +44,7 @@ All outputs are displayed in a rich text format using `@toast-ui/react-editor`, 
 - **Tailwind CSS**: A utility-first CSS framework used for responsive and modern UI design.
 - **Shadcn UI**: A component library used to enhance the user interface.
 - **Neon Database**: A serverless Postgres database service used for storing user data and history.
+
+## Disclaimer
+
+The creator of this application is not responsible for any incorrect forms created as Google Gemini API's functioning is beyond the creator's control.
