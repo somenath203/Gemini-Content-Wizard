@@ -47,4 +47,4 @@ All outputs are displayed in a rich text format using `@toast-ui/react-editor`, 
 
 ## Disclaimer
 
-The creator of this application is not responsible for any incorrect forms created as Google Gemini API's functioning is beyond the creator's control.
+The creator of this application is not responsible for any incorrect content created as Google Gemini API's functioning is beyond the creator's control.
