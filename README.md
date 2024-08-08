@@ -49,6 +49,10 @@ All outputs are displayed in a rich text format using `@toast-ui/react-editor`, 
 - **Shadcn UI**: A component library used to enhance the user interface.
 - **Neon Database**: A serverless Postgres database service used for storing user data and history.
 
+## Live Preview 
+
+https://gemini-content-wizard.vercel.app/
+
 ## Disclaimer
 
 The creator of this application is not responsible for any incorrect content created as Google Gemini API's functioning is beyond the creator's control.
