@@ -1,5 +1,9 @@
 # Gemini Content Wizard
 
+## Demo video of the overall project
+
+https://www.youtube.com/watch?v=4B1qwMBQmLc
+
 ## Introduction
 
 Welcome to **Gemini Content Wizard**, an AI-powered content generation application designed to simplify your content creation process. Whether you're a blogger, YouTuber, social media manager, or developer, Gemini Content Wizard offers a variety of tools to help you generate high-quality content with ease. Simply input your desired parameters, and let the power of AI craft the perfect output for you.
