@@ -23,7 +23,11 @@ const OutputSection = ({ aiModelResponse }) => {
 
   const onCopyResponseToClipboard = () => {
 
-    navigator.clipboard.writeText(aiModelResponse);
+    const editorInstance = referenceToEditor.current.getInstance();
+
+    const markdownContent = editorInstance.getMarkdown();
+
+    navigator.clipboard.writeText(markdownContent);
 
     toast("Response successfully copied to clipboard", {
       position: 'top-right'
@@ -41,7 +45,7 @@ const OutputSection = ({ aiModelResponse }) => {
           Your Result
         </h2>
 
-        <Copy size={20} className="text-primary" onClick={onCopyResponseToClipboard} />
+        <Copy size={20} className="text-primary cursor-pointer" onClick={onCopyResponseToClipboard} />
 
       </div>
 
