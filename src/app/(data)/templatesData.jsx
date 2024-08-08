@@ -217,14 +217,7 @@ export const allTemplates = [
         field: 'textarea',
         name: 'codeDescription',
         required: true,
-      },
-      {
-        label: 'Select programming language',
-        field: 'select',
-        name: 'programmingLanguage',
-        options: ['JavaScript', 'Python', 'Java', 'C#', 'C++', 'Ruby', 'Go'],
-        required: true,
-      },
+      }
     ],
   },
   {
